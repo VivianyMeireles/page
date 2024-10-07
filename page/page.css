@@ -1,0 +1,40 @@
+.esquerda{
+    float: left;
+    background-color: rgb(255, 255, 255);
+    border-bottom-right-radius: 2px;
+    height: 100vh;
+    overflow: auto;
+}
+
+.esquerda a, ul >li{
+    list-style: none;
+    text-decoration: none;
+    background-color: #d362ff;
+    border-radius: 2px;
+    padding: 5px 5px 5px 5px;
+}
+
+.esquerda ul{
+    margin-right: 20px;
+}
+
+.esquerda ul li{
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 150px;
+}
+.img-roda{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    display: flow-root;
+ 
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100%;
+    
+    
+}
